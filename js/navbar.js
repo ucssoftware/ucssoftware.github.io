@@ -1,5 +1,5 @@
-var html = '  <nav class="blue darken-4" role="navigation">\
-<div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo"><img src="UCS1.svg" height="auto" width="100">\
+var html = '  <nav class="grey darken-5" role="navigation">\
+<div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">UCS Software</a>\
 </a>\
   <ul class="right hide-on-med-and-down">\
     <li><a href="index.html">Home</a></li>\
